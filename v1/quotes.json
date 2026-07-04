@@ -1,0 +1,1053 @@
+{
+ "version": 1,
+ "pools": {
+  "zh-Hant": [
+   {
+    "id": 1,
+    "text": "天將降大任於斯人也，必先苦其心志，勞其筋骨，餓其體膚，空乏其身，行拂亂其所為，所以動心忍性，曾益其所不能。",
+    "source": "孟子·告子下",
+    "luckyLevel": 5
+   },
+   {
+    "id": 2,
+    "text": "不積跬步，無以至千里；不積小流，無以成江海。",
+    "source": "荀子·勸學",
+    "luckyLevel": 4
+   },
+   {
+    "id": 3,
+    "text": "路漫漫其修遠兮，吾將上下而求索。",
+    "source": "屈原·離騷",
+    "luckyLevel": 5
+   },
+   {
+    "id": 4,
+    "text": "寶劍鋒從磨礪出，梅花香自苦寒來。",
+    "source": "警世賢文",
+    "luckyLevel": 4
+   },
+   {
+    "id": 5,
+    "text": "山重水複疑無路，柳暗花明又一村。",
+    "source": "陸游·遊山西村",
+    "luckyLevel": 3
+   },
+   {
+    "id": 6,
+    "text": "世上無難事，只怕有心人。",
+    "source": "俗語",
+    "luckyLevel": 4
+   },
+   {
+    "id": 7,
+    "text": "千里之行，始於足下。",
+    "source": "老子·道德經",
+    "luckyLevel": 4
+   },
+   {
+    "id": 8,
+    "text": "失敗乃成功之母。",
+    "source": "俗語",
+    "luckyLevel": 3
+   },
+   {
+    "id": 9,
+    "text": "有志者，事竟成。",
+    "source": "後漢書·耿弇傳",
+    "luckyLevel": 5
+   },
+   {
+    "id": 10,
+    "text": "吃得苦中苦，方為人上人。",
+    "source": "俗語",
+    "luckyLevel": 4
+   },
+   {
+    "id": 11,
+    "text": "今日的努力，是明日成功的基石。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 12,
+    "text": "每一次跌倒，都是為了更堅強地站起來。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 13,
+    "text": "機會總是留給有準備的人。",
+    "source": "俗語",
+    "luckyLevel": 4
+   },
+   {
+    "id": 14,
+    "text": "堅持就是勝利。",
+    "source": "俗語",
+    "luckyLevel": 3
+   },
+   {
+    "id": 15,
+    "text": "相信自己，你比想像中更強大。",
+    "source": "現代勵志",
+    "luckyLevel": 5
+   },
+   {
+    "id": 16,
+    "text": "困難像彈簧，你弱它就強，你強它就弱。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 17,
+    "text": "不要害怕慢，只要不停下腳步。",
+    "source": "現代勵志",
+    "luckyLevel": 3
+   },
+   {
+    "id": 18,
+    "text": "成功不是終點，失敗也不是末日，繼續前進的勇氣才是最重要的。",
+    "source": "溫斯頓·邱吉爾",
+    "luckyLevel": 5
+   },
+   {
+    "id": 19,
+    "text": "今天的你，是昨天努力的結果；明天的你，是今天努力的結果。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 20,
+    "text": "與其擔心未來，不如現在好好努力。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 21,
+    "text": "人生沒有白走的路，每一步都算數。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 22,
+    "text": "只有經歷過地獄般的磨練，才能煉出創造天堂的力量。",
+    "source": "泰戈爾",
+    "luckyLevel": 5
+   },
+   {
+    "id": 23,
+    "text": "不要讓昨天的失敗，影響今天的努力。",
+    "source": "現代勵志",
+    "luckyLevel": 3
+   },
+   {
+    "id": 24,
+    "text": "成功的人找方法，失敗的人找藉口。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 25,
+    "text": "你的潛力遠超你的想像，加油！",
+    "source": "現代勵志",
+    "luckyLevel": 5
+   },
+   {
+    "id": 26,
+    "text": "每一次挑戰，都是成長的機會。",
+    "source": "現代勵志",
+    "luckyLevel": 3
+   },
+   {
+    "id": 27,
+    "text": "不要等待機會，而要創造機會。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 28,
+    "text": "努力不一定成功，但不努力一定不會成功。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 29,
+    "text": "風雨過後，總會有彩虹。",
+    "source": "俗語",
+    "luckyLevel": 3
+   },
+   {
+    "id": 30,
+    "text": "做最好的自己，比什麼都重要。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 31,
+    "text": "時間不會辜負每一個努力的人。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 32,
+    "text": "當你覺得累的時候，說明你正在走上坡路。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 33,
+    "text": "沒有過不去的坎，只有過不去的心。",
+    "source": "現代勵志",
+    "luckyLevel": 3
+   },
+   {
+    "id": 34,
+    "text": "夢想不會發光，發光的是追夢的你。",
+    "source": "現代勵志",
+    "luckyLevel": 5
+   },
+   {
+    "id": 35,
+    "text": "今天的汗水，是明天的收穫。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 36,
+    "text": "不要因為一次失敗，就放棄你原來決心達到的目標。",
+    "source": "莎士比亞",
+    "luckyLevel": 4
+   },
+   {
+    "id": 37,
+    "text": "行動是治癒恐懼的良藥，而猶豫、拖延將不斷滋養恐懼。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 38,
+    "text": "你今天的努力，決定你明天的位置。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 39,
+    "text": "生活不會因為你抱怨而改變，但會因為你的努力而改變。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 40,
+    "text": "相信自己，沒有什麼不可能。",
+    "source": "現代勵志",
+    "luckyLevel": 5
+   },
+   {
+    "id": 41,
+    "text": "成功不是將來才有的，而是從決定去做的那一刻起，持續累積而成。",
+    "source": "現代勵志",
+    "luckyLevel": 5
+   },
+   {
+    "id": 42,
+    "text": "不要讓別人的看法，阻擋你前進的腳步。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 43,
+    "text": "每一個不曾起舞的日子，都是對生命的辜負。",
+    "source": "尼采",
+    "luckyLevel": 5
+   },
+   {
+    "id": 44,
+    "text": "困難是暫時的，放棄是永久的。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 45,
+    "text": "你的堅持，終將美好。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 46,
+    "text": "不要害怕慢，只要不停下腳步，總會到達終點。",
+    "source": "現代勵志",
+    "luckyLevel": 3
+   },
+   {
+    "id": 47,
+    "text": "今天的你，比昨天更強大。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 48,
+    "text": "生活不會辜負每一個努力的人，加油！",
+    "source": "現代勵志",
+    "luckyLevel": 5
+   },
+   {
+    "id": 49,
+    "text": "只要方向正確，就不怕路遠。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 50,
+    "text": "每一次努力，都是為了遇見更好的自己。",
+    "source": "現代勵志",
+    "luckyLevel": 5
+   },
+   {
+    "id": 51,
+    "text": "滴水穿石，不是因為力量，而是因為堅持。",
+    "source": "俗語",
+    "luckyLevel": 4
+   },
+   {
+    "id": 52,
+    "text": "今天的你，決定明天的你。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 53,
+    "text": "沒有天生的信心，只有不斷培養的信心。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 54,
+    "text": "只要路是對的，就不怕路遠。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 55,
+    "text": "過去屬於死神，未來屬於自己。",
+    "source": "雪萊",
+    "luckyLevel": 5
+   },
+   {
+    "id": 56,
+    "text": "不要為失敗找藉口，要為成功找方法。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 57,
+    "text": "成功者找方法，失敗者找理由。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 58,
+    "text": "只有拼出來的美麗，沒有等出來的輝煌。",
+    "source": "現代勵志",
+    "luckyLevel": 5
+   },
+   {
+    "id": 59,
+    "text": "今天的付出，是明天的收穫。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 60,
+    "text": "不經歷風雨，怎麼見彩虹。",
+    "source": "俗語",
+    "luckyLevel": 4
+   },
+   {
+    "id": 61,
+    "text": "人生最大的敵人是自己，最大的失敗是自大。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 62,
+    "text": "與其臨淵羨魚，不如退而結網。",
+    "source": "漢書·董仲舒傳",
+    "luckyLevel": 4
+   },
+   {
+    "id": 63,
+    "text": "勤能補拙是良訓，一分耕耘一分才。",
+    "source": "華羅庚",
+    "luckyLevel": 4
+   },
+   {
+    "id": 64,
+    "text": "只要你不放棄，就沒有什麼能讓你退縮。",
+    "source": "現代勵志",
+    "luckyLevel": 5
+   },
+   {
+    "id": 65,
+    "text": "成功需要時間，但時間不會等待任何人。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 66,
+    "text": "昨天的太陽，曬不乾今天的衣裳。",
+    "source": "現代勵志",
+    "luckyLevel": 3
+   },
+   {
+    "id": 67,
+    "text": "只有不斷超越自己，才能超越別人。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 68,
+    "text": "沒有比腳更長的路，沒有比人更高的山。",
+    "source": "汪國真",
+    "luckyLevel": 5
+   },
+   {
+    "id": 69,
+    "text": "每一次選擇，都是新的開始。",
+    "source": "現代勵志",
+    "luckyLevel": 3
+   },
+   {
+    "id": 70,
+    "text": "相信自己，你能做到比想像中更多。",
+    "source": "現代勵志",
+    "luckyLevel": 5
+   },
+   {
+    "id": 71,
+    "text": "不要讓今天的懶惰，成為明天的遺憾。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 72,
+    "text": "成功的人不是從不失敗，而是從不氣餒。",
+    "source": "現代勵志",
+    "luckyLevel": 5
+   },
+   {
+    "id": 73,
+    "text": "生活就像騎單車，要保持平衡就得往前走。",
+    "source": "愛因斯坦",
+    "luckyLevel": 4
+   },
+   {
+    "id": 74,
+    "text": "你的態度決定你的高度。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 75,
+    "text": "不要等待機會，而要創造機會。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 76,
+    "text": "只有想不到，沒有做不到。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 77,
+    "text": "今天的努力，是為了明天的不後悔。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 78,
+    "text": "成功就是把複雜的問題簡單化，然後狠狠去做。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 79,
+    "text": "不要因為走得太遠，而忘記為什麼出發。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 80,
+    "text": "只有經歷過最痛苦的堅持，才能配得上擁有最永久的幸福。",
+    "source": "現代勵志",
+    "luckyLevel": 5
+   },
+   {
+    "id": 81,
+    "text": "你的努力，終將成就無可替代的自己。",
+    "source": "現代勵志",
+    "luckyLevel": 5
+   },
+   {
+    "id": 82,
+    "text": "不要讓未來的你，討厭現在的自己。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 83,
+    "text": "只有拼盡全力，才能看起來毫不費力。",
+    "source": "現代勵志",
+    "luckyLevel": 5
+   },
+   {
+    "id": 84,
+    "text": "成功不是偶然，而是必然。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 85,
+    "text": "每一次挫折，都是成長的階梯。",
+    "source": "現代勵志",
+    "luckyLevel": 3
+   },
+   {
+    "id": 86,
+    "text": "不要害怕改變，因為改變是成長的開始。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 87,
+    "text": "你的堅持，會讓世界為你讓路。",
+    "source": "現代勵志",
+    "luckyLevel": 5
+   },
+   {
+    "id": 88,
+    "text": "只有不斷學習，才能不斷進步。",
+    "source": "現代勵志",
+    "luckyLevel": 3
+   },
+   {
+    "id": 89,
+    "text": "不要讓夢想只是夢想，要讓它成為現實。",
+    "source": "現代勵志",
+    "luckyLevel": 5
+   },
+   {
+    "id": 90,
+    "text": "今天的汗水，是明天的微笑。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 91,
+    "text": "只有勇敢面對，才能戰勝困難。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 92,
+    "text": "不要讓別人的成功，成為你的壓力。",
+    "source": "現代勵志",
+    "luckyLevel": 3
+   },
+   {
+    "id": 93,
+    "text": "你的努力，時間會給你答案。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 94,
+    "text": "只有不斷挑戰自己，才能突破極限。",
+    "source": "現代勵志",
+    "luckyLevel": 5
+   },
+   {
+    "id": 95,
+    "text": "不要讓過去綁架你的未來。",
+    "source": "現代勵志",
+    "luckyLevel": 3
+   },
+   {
+    "id": 96,
+    "text": "成功需要耐心，更需要堅持。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 97,
+    "text": "只有行動，才能改變現狀。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 98,
+    "text": "不要讓困難成為藉口，要讓它成為動力。",
+    "source": "現代勵志",
+    "luckyLevel": 4
+   },
+   {
+    "id": 99,
+    "text": "你的潛能，遠超你的想像。",
+    "source": "現代勵志",
+    "luckyLevel": 5
+   },
+   {
+    "id": 100,
+    "text": "每一次堅持，都是向成功邁進的一步。",
+    "source": "現代勵志",
+    "luckyLevel": 5
+   }
+  ],
+  "en": [
+   {
+    "id": 1,
+    "text": "The impediment to action advances action. What stands in the way becomes the way.",
+    "source": "Marcus Aurelius",
+    "luckyLevel": 5
+   },
+   {
+    "id": 2,
+    "text": "You have power over your mind — not outside events. Realize this, and you will find strength.",
+    "source": "Marcus Aurelius",
+    "luckyLevel": 5
+   },
+   {
+    "id": 3,
+    "text": "Waste no more time arguing about what a good man should be. Be one.",
+    "source": "Marcus Aurelius",
+    "luckyLevel": 5
+   },
+   {
+    "id": 4,
+    "text": "The happiness of your life depends upon the quality of your thoughts.",
+    "source": "Marcus Aurelius",
+    "luckyLevel": 4
+   },
+   {
+    "id": 5,
+    "text": "When you arise in the morning, think of what a privilege it is to be alive.",
+    "source": "Marcus Aurelius",
+    "luckyLevel": 5
+   },
+   {
+    "id": 6,
+    "text": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
+    "source": "Marcus Aurelius",
+    "luckyLevel": 4
+   },
+   {
+    "id": 7,
+    "text": "If it is not right, do not do it; if it is not true, do not say it.",
+    "source": "Marcus Aurelius",
+    "luckyLevel": 4
+   },
+   {
+    "id": 8,
+    "text": "Confine yourself to the present.",
+    "source": "Marcus Aurelius",
+    "luckyLevel": 4
+   },
+   {
+    "id": 9,
+    "text": "We suffer more often in imagination than in reality.",
+    "source": "Seneca",
+    "luckyLevel": 5
+   },
+   {
+    "id": 10,
+    "text": "Luck is what happens when preparation meets opportunity.",
+    "source": "Seneca",
+    "luckyLevel": 4
+   },
+   {
+    "id": 11,
+    "text": "It is not that we have a short time to live, but that we waste much of it.",
+    "source": "Seneca",
+    "luckyLevel": 5
+   },
+   {
+    "id": 12,
+    "text": "Every new beginning comes from some other beginning's end.",
+    "source": "Seneca",
+    "luckyLevel": 4
+   },
+   {
+    "id": 13,
+    "text": "Difficulties strengthen the mind, as labor does the body.",
+    "source": "Seneca",
+    "luckyLevel": 4
+   },
+   {
+    "id": 14,
+    "text": "He who is brave is free.",
+    "source": "Seneca",
+    "luckyLevel": 4
+   },
+   {
+    "id": 15,
+    "text": "As is a tale, so is life: not how long it is, but how good it is, is what matters.",
+    "source": "Seneca",
+    "luckyLevel": 5
+   },
+   {
+    "id": 16,
+    "text": "It does not matter what you bear, but how you bear it.",
+    "source": "Seneca",
+    "luckyLevel": 4
+   },
+   {
+    "id": 17,
+    "text": "No man is free who is not master of himself.",
+    "source": "Epictetus",
+    "luckyLevel": 5
+   },
+   {
+    "id": 18,
+    "text": "It's not what happens to you, but how you react to it that matters.",
+    "source": "Epictetus",
+    "luckyLevel": 5
+   },
+   {
+    "id": 19,
+    "text": "Wealth consists not in having great possessions, but in having few wants.",
+    "source": "Epictetus",
+    "luckyLevel": 4
+   },
+   {
+    "id": 20,
+    "text": "First say to yourself what you would be; and then do what you have to do.",
+    "source": "Epictetus",
+    "luckyLevel": 5
+   },
+   {
+    "id": 21,
+    "text": "He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.",
+    "source": "Epictetus",
+    "luckyLevel": 4
+   },
+   {
+    "id": 22,
+    "text": "A journey of a thousand miles begins with a single step.",
+    "source": "Lao Tzu",
+    "luckyLevel": 5
+   },
+   {
+    "id": 23,
+    "text": "Nature does not hurry, yet everything is accomplished.",
+    "source": "Lao Tzu",
+    "luckyLevel": 5
+   },
+   {
+    "id": 24,
+    "text": "He who knows others is wise; he who knows himself is enlightened.",
+    "source": "Lao Tzu",
+    "luckyLevel": 5
+   },
+   {
+    "id": 25,
+    "text": "When I let go of what I am, I become what I might be.",
+    "source": "Lao Tzu",
+    "luckyLevel": 4
+   },
+   {
+    "id": 26,
+    "text": "The flame that burns twice as bright burns half as long — but softness overcomes hardness.",
+    "source": "Lao Tzu",
+    "luckyLevel": 3
+   },
+   {
+    "id": 27,
+    "text": "Mastering others is strength. Mastering yourself is true power.",
+    "source": "Lao Tzu",
+    "luckyLevel": 5
+   },
+   {
+    "id": 28,
+    "text": "To the mind that is still, the whole universe surrenders.",
+    "source": "Lao Tzu",
+    "luckyLevel": 4
+   },
+   {
+    "id": 29,
+    "text": "Great acts are made up of small deeds.",
+    "source": "Lao Tzu",
+    "luckyLevel": 4
+   },
+   {
+    "id": 30,
+    "text": "It does not matter how slowly you go as long as you do not stop.",
+    "source": "Confucius",
+    "luckyLevel": 5
+   },
+   {
+    "id": 31,
+    "text": "The man who moves a mountain begins by carrying away small stones.",
+    "source": "Confucius",
+    "luckyLevel": 5
+   },
+   {
+    "id": 32,
+    "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
+    "source": "Confucius",
+    "luckyLevel": 5
+   },
+   {
+    "id": 33,
+    "text": "Wheresoever you go, go with all your heart.",
+    "source": "Confucius",
+    "luckyLevel": 4
+   },
+   {
+    "id": 34,
+    "text": "The will to win, the desire to succeed — these are the keys that unlock excellence.",
+    "source": "Confucius",
+    "luckyLevel": 4
+   },
+   {
+    "id": 35,
+    "text": "When it is obvious that the goals cannot be reached, adjust the action steps.",
+    "source": "Confucius",
+    "luckyLevel": 4
+   },
+   {
+    "id": 36,
+    "text": "Everything has beauty, but not everyone sees it.",
+    "source": "Confucius",
+    "luckyLevel": 4
+   },
+   {
+    "id": 37,
+    "text": "He who conquers himself is the mightiest warrior.",
+    "source": "Confucius",
+    "luckyLevel": 5
+   },
+   {
+    "id": 38,
+    "text": "What you do not want done to yourself, do not do to others.",
+    "source": "Confucius",
+    "luckyLevel": 4
+   },
+   {
+    "id": 39,
+    "text": "Opportunities multiply as they are seized.",
+    "source": "Sun Tzu",
+    "luckyLevel": 4
+   },
+   {
+    "id": 40,
+    "text": "In the midst of chaos, there is also opportunity.",
+    "source": "Sun Tzu",
+    "luckyLevel": 4
+   },
+   {
+    "id": 41,
+    "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+    "source": "Ralph Waldo Emerson",
+    "luckyLevel": 5
+   },
+   {
+    "id": 42,
+    "text": "Do not go where the path may lead; go instead where there is no path and leave a trail.",
+    "source": "Ralph Waldo Emerson",
+    "luckyLevel": 5
+   },
+   {
+    "id": 43,
+    "text": "Write it on your heart that every day is the best day in the year.",
+    "source": "Ralph Waldo Emerson",
+    "luckyLevel": 5
+   },
+   {
+    "id": 44,
+    "text": "What you do speaks so loudly that I cannot hear what you say.",
+    "source": "Ralph Waldo Emerson",
+    "luckyLevel": 4
+   },
+   {
+    "id": 45,
+    "text": "Finish each day and be done with it. You have done what you could.",
+    "source": "Ralph Waldo Emerson",
+    "luckyLevel": 5
+   },
+   {
+    "id": 46,
+    "text": "Once you make a decision, the universe conspires to make it happen.",
+    "source": "Ralph Waldo Emerson",
+    "luckyLevel": 4
+   },
+   {
+    "id": 47,
+    "text": "The only person you are destined to become is the person you decide to be.",
+    "source": "Ralph Waldo Emerson",
+    "luckyLevel": 5
+   },
+   {
+    "id": 48,
+    "text": "Nothing great was ever achieved without enthusiasm.",
+    "source": "Ralph Waldo Emerson",
+    "luckyLevel": 4
+   },
+   {
+    "id": 49,
+    "text": "Go confidently in the direction of your dreams. Live the life you have imagined.",
+    "source": "Henry David Thoreau",
+    "luckyLevel": 5
+   },
+   {
+    "id": 50,
+    "text": "It's not what you look at that matters, it's what you see.",
+    "source": "Henry David Thoreau",
+    "luckyLevel": 4
+   },
+   {
+    "id": 51,
+    "text": "Success usually comes to those who are too busy to be looking for it.",
+    "source": "Henry David Thoreau",
+    "luckyLevel": 4
+   },
+   {
+    "id": 52,
+    "text": "What you get by achieving your goals is not as important as what you become by achieving them.",
+    "source": "Henry David Thoreau",
+    "luckyLevel": 4
+   },
+   {
+    "id": 53,
+    "text": "The price of anything is the amount of life you exchange for it.",
+    "source": "Henry David Thoreau",
+    "luckyLevel": 4
+   },
+   {
+    "id": 54,
+    "text": "Do not wait for extraordinary circumstances to do good; try to use ordinary situations.",
+    "source": "Jean Paul Richter",
+    "luckyLevel": 3
+   },
+   {
+    "id": 55,
+    "text": "Fall seven times, stand up eight.",
+    "source": "Japanese Proverb",
+    "luckyLevel": 5
+   },
+   {
+    "id": 56,
+    "text": "A river cuts through rock not because of its power, but its persistence.",
+    "source": "Proverb",
+    "luckyLevel": 5
+   },
+   {
+    "id": 57,
+    "text": "The best time to plant a tree was twenty years ago. The second best time is now.",
+    "source": "Proverb",
+    "luckyLevel": 5
+   },
+   {
+    "id": 58,
+    "text": "Smooth seas do not make skillful sailors.",
+    "source": "African Proverb",
+    "luckyLevel": 4
+   },
+   {
+    "id": 59,
+    "text": "If you want to go fast, go alone. If you want to go far, go together.",
+    "source": "African Proverb",
+    "luckyLevel": 4
+   },
+   {
+    "id": 60,
+    "text": "A gem cannot be polished without friction, nor a person perfected without trials.",
+    "source": "Chinese Proverb",
+    "luckyLevel": 4
+   },
+   {
+    "id": 61,
+    "text": "Be not afraid of going slowly; be afraid only of standing still.",
+    "source": "Chinese Proverb",
+    "luckyLevel": 4
+   },
+   {
+    "id": 62,
+    "text": "Tension is who you think you should be. Relaxation is who you are.",
+    "source": "Chinese Proverb",
+    "luckyLevel": 3
+   },
+   {
+    "id": 63,
+    "text": "Dig the well before you are thirsty.",
+    "source": "Chinese Proverb",
+    "luckyLevel": 4
+   },
+   {
+    "id": 64,
+    "text": "A bird does not sing because it has an answer. It sings because it has a song.",
+    "source": "Chinese Proverb",
+    "luckyLevel": 3
+   },
+   {
+    "id": 65,
+    "text": "The journey is the reward.",
+    "source": "Chinese Proverb",
+    "luckyLevel": 4
+   },
+   {
+    "id": 66,
+    "text": "Energy and persistence conquer all things.",
+    "source": "Benjamin Franklin",
+    "luckyLevel": 4
+   },
+   {
+    "id": 67,
+    "text": "Well done is better than well said.",
+    "source": "Benjamin Franklin",
+    "luckyLevel": 4
+   },
+   {
+    "id": 68,
+    "text": "By failing to prepare, you are preparing to fail.",
+    "source": "Benjamin Franklin",
+    "luckyLevel": 4
+   },
+   {
+    "id": 69,
+    "text": "Lost time is never found again.",
+    "source": "Benjamin Franklin",
+    "luckyLevel": 4
+   },
+   {
+    "id": 70,
+    "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+    "source": "Aristotle",
+    "luckyLevel": 5
+   },
+   {
+    "id": 71,
+    "text": "Knowing yourself is the beginning of all wisdom.",
+    "source": "Aristotle",
+    "luckyLevel": 5
+   },
+   {
+    "id": 72,
+    "text": "Patience is bitter, but its fruit is sweet.",
+    "source": "Aristotle",
+    "luckyLevel": 4
+   },
+   {
+    "id": 73,
+    "text": "The only true wisdom is in knowing you know nothing.",
+    "source": "Socrates",
+    "luckyLevel": 4
+   },
+   {
+    "id": 74,
+    "text": "An unexamined life is not worth living.",
+    "source": "Socrates",
+    "luckyLevel": 4
+   }
+  ]
+ }
+}
