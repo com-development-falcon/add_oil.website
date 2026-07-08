@@ -1,6 +1,0 @@
-# addoil.bagging.app is now data-only. Human pages live on the studio site.
-/               https://studio.bagging.app/add-oil/          301
-/index.html     https://studio.bagging.app/add-oil/          301
-/privacy.html   https://studio.bagging.app/add-oil/privacy.html   301
-/tos.html       https://studio.bagging.app/add-oil/terms.html     301
-# /v1/quotes.json is served directly (not redirected) — the app depends on it.

@@ -1,8 +1,9 @@
 # addoil.bagging.app
 
-Data endpoint for the 加油 (Add Oil) iOS app.
+The 加油 (Add Oil) product site + the app's live data endpoint.
 
-- `v1/quotes.json` — the live quote library the app fetches. **Do not move or rename this URL**; shipped apps hardcode `https://addoil.bagging.app/v1/quotes.json`.
-- `_redirects` — forwards the old marketing/privacy/terms pages to the Studio site (`studio.bagging.app/add-oil/…`), which is now the source of truth for those.
+- `index.html` / `privacy.html` / `tos.html` — the Add Oil marketing + legal pages (Add Oil's own dawn theme). The App Store support/marketing/privacy URLs point here.
+- `v1/quotes.json` — the live quote library the app fetches. **Never move or rename this URL**; shipped apps hardcode `https://addoil.bagging.app/v1/quotes.json`.
 
-To update quotes: edit `v1/quotes.json`, commit, and deploy (`wrangler pages deploy . --project-name add-oil-website`).
+Add Oil is a Bagging Studio product; the studio links here from studio.bagging.app.
+Deploy: `wrangler pages deploy . --project-name add-oil-website`.
